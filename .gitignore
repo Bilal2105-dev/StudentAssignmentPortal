@@ -1,0 +1,19 @@
+# Ignore system & temp files
+*.lnk
+*.zip
+*.rar
+*.7z
+*.exe
+*.log
+*.bak
+*.tmp
+*.swp
+*.DS_Store
+
+# Ignore build folders
+bin/
+obj/
+
+# Ignore user folders
+.vs/
+.vscode/
